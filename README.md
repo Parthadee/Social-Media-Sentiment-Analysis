@@ -72,6 +72,13 @@ Below is an example Power BI dashboard visualizing the sentiment analysis result
 ![Power BI Dashboard](https://github.com/Parthadee/Social-Media-Sentiment-Analysis/blob/0d117d1d110649896c2ca1299331f4d63aeecb8a/images/Word%20Cloud%20of%20Negative%20Sentiment%20Content.png)
 ![Power BI Dashboard](https://github.com/Parthadee/Social-Media-Sentiment-Analysis/blob/0d117d1d110649896c2ca1299331f4d63aeecb8a/images/Word%20Cloud%20of%20Neutral%20Sentiment%20Content.png)
 
+## 🎥 Video Demonstration
+
+Watch the video demonstration of the project:
+
+[![Watch the video](images/video_thumbnail.png)](https://yourvideolink.com)
+
+
 ## 📚 Technologies Used
 
 - **Python**
