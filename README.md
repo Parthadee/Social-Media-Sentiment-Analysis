@@ -76,7 +76,7 @@ Below is an example Power BI dashboard visualizing the sentiment analysis result
 
 Watch the video demonstration of the project:
 
-[![Watch the video](images/video_thumbnail.png)](https://yourvideolink.com)
+[![Watch the video](https://github.com/Parthadee/Social-Media-Sentiment-Analysis/blob/a5a801b67fd28c5faf51ce6dddfc1d5215a4c88f/images/video-capture-t0128.75seg-4494.png)](https://www.linkedin.com/posts/parthakrdey_brainwaveabrmatrixabrintern-brainwaveabrmatrixabrintern-activity-7312602852344971265-JeHH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACnYINkBGgxdjjmQBUEVRhCtfY_7PSWrVUQ)
 
 
 ## 📚 Technologies Used
