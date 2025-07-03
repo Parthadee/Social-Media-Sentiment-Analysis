@@ -1,4 +1,4 @@
-# 📊 Social Media Sentiment Analysis
+# 📊 Tweeter Social Media Sentiment Analysis
 <img src="images/Social-Media-Sentiment-1.png"/>
 
 ## 🔍 Overview
